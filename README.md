@@ -51,6 +51,20 @@ The application features a powerful validation service that checks programs for 
 - **Simulation Engine**: Run simulations (`SimulationRequestDto` / `SimulationResultDto`) to track completion state and evaluate choice selections.
 - **RESTful API**: Clean and documented endpoints for managing programs.
 
+## 📐 Design Decisions
+
+- **Clean Architecture & Layered Design**: Adopted to ensure a strict separation of concerns between the Domain, Application, Infrastructure, and API layers. This makes the core business logic independent of external frameworks and highly testable.
+- **Repository & Unit of Work Patterns**: Used to abstract data access logic and seamlessly manage database transactions, allowing for centralized business rules and easier mocking during unit testing.
+- **Entity Framework Core & SQL Server**: Chosen as the primary ORM and database engine for robust, relational data modeling and LINQ integration, facilitating efficient querying of hierarchical data.
+- **DTOs (Data Transfer Objects)**: Used to decouple internal domain entities from the API contract, preventing over-posting attacks and ensuring only necessary data is exposed.
+- **Global Exception Handling**: Implemented to provide consistent, structured error responses across all API endpoints, keeping the controllers clean of repetitive `try-catch` blocks.
+
+## ⚖️ Trade-offs
+
+- **Simplicity over Advanced Query Optimization**: Opted for straightforward EF Core queries and a standard relational schema. For extremely deep, recursive hierarchies, a graph database might be more performant, but SQL Server was chosen to reduce infrastructure complexity.
+- **Stateless Simulation**: The simulation endpoint currently evaluates the program state dynamically based on the request (`SimulationRequestDto`) rather than persisting user progress. This simplifies the architecture but shifts the burden of maintaining long-running session state to the client.
+- **Focus on Core Domain over Security**: Authentication and authorization (e.g., JWT, Identity) were intentionally omitted to keep the project focused strictly on the domain complexity of program validation and simulation.
+
 ## 🤖 AI Assistance Acknowledgment
 
 To accelerate development and ensure high code quality, this project was built with the assistance of advanced AI tools:
