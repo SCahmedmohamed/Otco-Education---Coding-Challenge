@@ -53,9 +53,9 @@ The application features a powerful validation service that checks programs for 
 
 ## 🤖 AI Assistance Acknowledgment
 
-To accelerate development, ensure high code quality, and brainstorm complex validation algorithms, this project was built with the assistance of advanced AI tools:
-- **Antigravity (Google DeepMind)**
-- **ChatGPT (OpenAI)**
+To accelerate development and ensure high code quality, this project was built with the assistance of advanced AI tools:
+- **ChatGPT (OpenAI)**: Assisted in analyzing and understanding the core business logic.
+- **Antigravity (Google DeepMind)**: Provided extensive support with writing `xUnit` tests, developing the validation engine, and performing continuous code edits and refinements.
 
 These tools were utilized for architectural brainstorming, test case generation, and continuous code refinement, demonstrating a modern approach to software engineering.
 
