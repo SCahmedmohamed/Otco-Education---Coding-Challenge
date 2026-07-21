@@ -17,3 +17,4 @@ C:\Users\ahmed\source\repos\ProgramDesigner\ProgramDesigner.Infrastructure\obj\D
 C:\Users\ahmed\source\repos\ProgramDesigner\ProgramDesigner.Infrastructure\obj\Debug\net8.0\ProgramDesigner.Infrastructure.pdb
 C:\Users\ahmed\source\repos\ProgramDesigner\ProgramDesigner.Infrastructure\obj\Debug\net8.0\ProgramDesigner.Infrastructure.genruntimeconfig.cache
 C:\Users\ahmed\source\repos\ProgramDesigner\ProgramDesigner.Infrastructure\obj\Debug\net8.0\ref\ProgramDesigner.Infrastructure.dll
+C:\Users\ahmed\source\repos\ProgramDesigner\ProgramDesigner.Infrastructure\obj\Debug\net8.0\ProgramDesigner.Infrastructure.sourcelink.json

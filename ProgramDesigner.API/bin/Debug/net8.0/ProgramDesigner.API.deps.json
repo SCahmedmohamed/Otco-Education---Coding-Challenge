@@ -9,6 +9,7 @@
       "ProgramDesigner.API/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore.Design": "8.0.22",
+          "Microsoft.EntityFrameworkCore.InMemory": "8.0.22",
           "ProgramDesigner.Application": "1.0.0",
           "ProgramDesigner.Infrastructure": "1.0.0",
           "Swashbuckle.AspNetCore": "6.4.0"
@@ -396,6 +397,17 @@
         },
         "runtime": {
           "lib/net8.0/Microsoft.EntityFrameworkCore.Design.dll": {
+            "assemblyVersion": "8.0.22.0",
+            "fileVersion": "8.0.2225.52804"
+          }
+        }
+      },
+      "Microsoft.EntityFrameworkCore.InMemory/8.0.22": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "8.0.22"
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.EntityFrameworkCore.InMemory.dll": {
             "assemblyVersion": "8.0.22.0",
             "fileVersion": "8.0.2225.52804"
           }
@@ -1103,6 +1115,13 @@
       "sha512": "sha512-l4qE4FuNkmFEZvui87sDi3vQMhNSpxsUDCGC9LwnTs2akk59bGhsjTcDp/Jt6hUTJaJ4uMDThAztHi3qeVhGHA==",
       "path": "microsoft.entityframeworkcore.design/8.0.22",
       "hashPath": "microsoft.entityframeworkcore.design.8.0.22.nupkg.sha512"
+    },
+    "Microsoft.EntityFrameworkCore.InMemory/8.0.22": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dPbM/KLIh/AdHRjh/OhrzhAiHRLT0JBC5KSvAZ71eg42+QwF9aEuBfTzqr+GJE6DK9CLhqh9jXAqRKFojPki5g==",
+      "path": "microsoft.entityframeworkcore.inmemory/8.0.22",
+      "hashPath": "microsoft.entityframeworkcore.inmemory.8.0.22.nupkg.sha512"
     },
     "Microsoft.EntityFrameworkCore.Relational/8.0.22": {
       "type": "package",

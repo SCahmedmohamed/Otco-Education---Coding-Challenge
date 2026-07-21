@@ -2,6 +2,7 @@
 using Hospital.Infrastructure;
 using Hospital.Infrastructure.Repositories;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.FileProviders;
 using ProgramDesigner.Application.Mappings;
 using ProgramDesigner.Application.Serices.Abstractions;
 using ProgramDesigner.Application.Services;
@@ -26,17 +27,35 @@ namespace ProgramDesigner.API
 
 
             // Database
-            builder.Services.AddDbContext<ApplicationDbContext>(options =>
+            var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+            if (string.IsNullOrWhiteSpace(connectionString))
             {
-                options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
-
-            });
+                builder.Services.AddDbContext<ApplicationDbContext>(options =>
+                    options.UseInMemoryDatabase("ProgramDesignerDb"));
+            }
+            else
+            {
+                builder.Services.AddDbContext<ApplicationDbContext>(options =>
+                    options.UseSqlServer(connectionString));
+            }
 
 
             builder.Services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
             builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
             builder.Services.AddScoped<ISerivceManager, ServiceManager>();
             builder.Services.AddAutoMapper(M => M.AddProfile(new MappingProfile()));
+
+            // Allow the HTML/CSS/JS frontend to call the API
+            builder.Services.AddCors(options =>
+            {
+                options.AddPolicy("FrontendPolicy", policy =>
+                {
+                    policy.AllowAnyOrigin()
+                          .AllowAnyMethod()
+                          .AllowAnyHeader();
+                });
+            });
+
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
@@ -46,10 +65,25 @@ namespace ProgramDesigner.API
                 app.UseSwaggerUI();
             }
 
-            app.UseHttpsRedirection();
+            if (!app.Environment.IsDevelopment())
+            {
+                app.UseHttpsRedirection();
+            }
+
+            app.UseCors("FrontendPolicy");
+
+            var frontendPath = Path.Combine(app.Environment.ContentRootPath, "..", "ProgramDesigner.Frontend");
+            app.UseDefaultFiles(new DefaultFilesOptions
+            {
+                FileProvider = new PhysicalFileProvider(frontendPath),
+                RequestPath = string.Empty
+            });
+            app.UseStaticFiles(new StaticFileOptions
+            {
+                FileProvider = new PhysicalFileProvider(frontendPath)
+            });
 
             app.UseAuthorization();
-
 
             app.MapControllers();
             app.UseMiddleware<GlobalErrorHandlingMiddleware>();
