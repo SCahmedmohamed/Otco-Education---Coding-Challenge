@@ -1,0 +1,50 @@
+[
+  {
+    "ContainingType": "ProgramDesigner.API.Controllers.ProgramsController",
+    "Method": "CreateProgram",
+    "RelativePath": "api/Programs",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "ProgramDesigner.Application.DTOs.CreateProgramDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProgramDesigner.API.Controllers.ProgramsController",
+    "Method": "GetProgram",
+    "RelativePath": "api/Programs/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProgramDesigner.API.Controllers.ProgramsController",
+    "Method": "ValidateProgram",
+    "RelativePath": "api/Programs/{id}/validate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

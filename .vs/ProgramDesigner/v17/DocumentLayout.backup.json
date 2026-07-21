@@ -1,0 +1,209 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahmed\\source\\repos\\ProgramDesigner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{701DA01A-4C2B-4579-B7AA-3DCE75EF6074}|ProgramDesigner.Application\\ProgramDesigner.Application.csproj|c:\\users\\ahmed\\source\\repos\\programdesigner\\programdesigner.application\\dtos\\programdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701DA01A-4C2B-4579-B7AA-3DCE75EF6074}|ProgramDesigner.Application\\ProgramDesigner.Application.csproj|solutionrelative:programdesigner.application\\dtos\\programdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701DA01A-4C2B-4579-B7AA-3DCE75EF6074}|ProgramDesigner.Application\\ProgramDesigner.Application.csproj|c:\\users\\ahmed\\source\\repos\\programdesigner\\programdesigner.application\\dtos\\programnodedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701DA01A-4C2B-4579-B7AA-3DCE75EF6074}|ProgramDesigner.Application\\ProgramDesigner.Application.csproj|solutionrelative:programdesigner.application\\dtos\\programnodedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701DA01A-4C2B-4579-B7AA-3DCE75EF6074}|ProgramDesigner.Application\\ProgramDesigner.Application.csproj|c:\\users\\ahmed\\source\\repos\\programdesigner\\programdesigner.application\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701DA01A-4C2B-4579-B7AA-3DCE75EF6074}|ProgramDesigner.Application\\ProgramDesigner.Application.csproj|solutionrelative:programdesigner.application\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF4EF57D-6EAA-4762-923E-EB8FF3EB002F}|ProgramDesigner.Infrastructure\\ProgramDesigner.Infrastructure.csproj|c:\\users\\ahmed\\source\\repos\\programdesigner\\programdesigner.infrastructure\\migrations\\20260720222551_check nullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF4EF57D-6EAA-4762-923E-EB8FF3EB002F}|ProgramDesigner.Infrastructure\\ProgramDesigner.Infrastructure.csproj|solutionrelative:programdesigner.infrastructure\\migrations\\20260720222551_check nullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701DA01A-4C2B-4579-B7AA-3DCE75EF6074}|ProgramDesigner.Application\\ProgramDesigner.Application.csproj|c:\\users\\ahmed\\source\\repos\\programdesigner\\programdesigner.application\\services\\validationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701DA01A-4C2B-4579-B7AA-3DCE75EF6074}|ProgramDesigner.Application\\ProgramDesigner.Application.csproj|solutionrelative:programdesigner.application\\services\\validationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{089CB516-CA91-41A2-ABA8-75C7DB8E492A}|ProgramDesigner.Domain\\ProgramDesigner.Domain.csproj|c:\\users\\ahmed\\source\\repos\\programdesigner\\programdesigner.domain\\entities\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{089CB516-CA91-41A2-ABA8-75C7DB8E492A}|ProgramDesigner.Domain\\ProgramDesigner.Domain.csproj|solutionrelative:programdesigner.domain\\entities\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{089CB516-CA91-41A2-ABA8-75C7DB8E492A}|ProgramDesigner.Domain\\ProgramDesigner.Domain.csproj|c:\\users\\ahmed\\source\\repos\\programdesigner\\programdesigner.domain\\entities\\programnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{089CB516-CA91-41A2-ABA8-75C7DB8E492A}|ProgramDesigner.Domain\\ProgramDesigner.Domain.csproj|solutionrelative:programdesigner.domain\\entities\\programnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C4CB1F-326C-46A2-829F-B230B81E4A77}|ProgramDesigner.API\\ProgramDesigner.API.csproj|c:\\users\\ahmed\\source\\repos\\programdesigner\\programdesigner.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C4CB1F-326C-46A2-829F-B230B81E4A77}|ProgramDesigner.API\\ProgramDesigner.API.csproj|solutionrelative:programdesigner.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF4EF57D-6EAA-4762-923E-EB8FF3EB002F}|ProgramDesigner.Infrastructure\\ProgramDesigner.Infrastructure.csproj|c:\\users\\ahmed\\source\\repos\\programdesigner\\programdesigner.infrastructure\\migrations\\20260720181526_first mig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF4EF57D-6EAA-4762-923E-EB8FF3EB002F}|ProgramDesigner.Infrastructure\\ProgramDesigner.Infrastructure.csproj|solutionrelative:programdesigner.infrastructure\\migrations\\20260720181526_first mig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701DA01A-4C2B-4579-B7AA-3DCE75EF6074}|ProgramDesigner.Application\\ProgramDesigner.Application.csproj|c:\\users\\ahmed\\source\\repos\\programdesigner\\programdesigner.application\\services\\programservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701DA01A-4C2B-4579-B7AA-3DCE75EF6074}|ProgramDesigner.Application\\ProgramDesigner.Application.csproj|solutionrelative:programdesigner.application\\services\\programservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C4CB1F-326C-46A2-829F-B230B81E4A77}|ProgramDesigner.API\\ProgramDesigner.API.csproj|c:\\users\\ahmed\\source\\repos\\programdesigner\\programdesigner.api\\controllers\\programscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C4CB1F-326C-46A2-829F-B230B81E4A77}|ProgramDesigner.API\\ProgramDesigner.API.csproj|solutionrelative:programdesigner.api\\controllers\\programscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ProgramDesigner\\ProgramDesigner.Application\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "ProgramDesigner.Application\\Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\ProgramDesigner\\ProgramDesigner.Application\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "ProgramDesigner.Application\\Mappings\\MappingProfile.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAewCAAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T22:27:31.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20260720222551_Check Nullable.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ProgramDesigner\\ProgramDesigner.Infrastructure\\Migrations\\20260720222551_Check Nullable.cs",
+              "RelativeDocumentMoniker": "ProgramDesigner.Infrastructure\\Migrations\\20260720222551_Check Nullable.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\ProgramDesigner\\ProgramDesigner.Infrastructure\\Migrations\\20260720222551_Check Nullable.cs",
+              "RelativeToolTip": "ProgramDesigner.Infrastructure\\Migrations\\20260720222551_Check Nullable.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T22:25:52.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ValidationService.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ProgramDesigner\\ProgramDesigner.Application\\Services\\ValidationService.cs",
+              "RelativeDocumentMoniker": "ProgramDesigner.Application\\Services\\ValidationService.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\ProgramDesigner\\ProgramDesigner.Application\\Services\\ValidationService.cs",
+              "RelativeToolTip": "ProgramDesigner.Application\\Services\\ValidationService.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAewF0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T22:25:10.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ProgramDesigner\\ProgramDesigner.Domain\\Entities\\Group.cs",
+              "RelativeDocumentMoniker": "ProgramDesigner.Domain\\Entities\\Group.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\ProgramDesigner\\ProgramDesigner.Domain\\Entities\\Group.cs",
+              "RelativeToolTip": "ProgramDesigner.Domain\\Entities\\Group.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T22:23:57.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProgramNode.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ProgramDesigner\\ProgramDesigner.Domain\\Entities\\ProgramNode.cs",
+              "RelativeDocumentMoniker": "ProgramDesigner.Domain\\Entities\\ProgramNode.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\ProgramDesigner\\ProgramDesigner.Domain\\Entities\\ProgramNode.cs",
+              "RelativeToolTip": "ProgramDesigner.Domain\\Entities\\ProgramNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T22:22:53.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProgramDto.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ProgramDesigner\\ProgramDesigner.Application\\DTOs\\ProgramDto.cs",
+              "RelativeDocumentMoniker": "ProgramDesigner.Application\\DTOs\\ProgramDto.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\ProgramDesigner\\ProgramDesigner.Application\\DTOs\\ProgramDto.cs",
+              "RelativeToolTip": "ProgramDesigner.Application\\DTOs\\ProgramDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T22:21:52.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20260720181526_First Mig.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ProgramDesigner\\ProgramDesigner.Infrastructure\\Migrations\\20260720181526_First Mig.cs",
+              "RelativeDocumentMoniker": "ProgramDesigner.Infrastructure\\Migrations\\20260720181526_First Mig.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\ProgramDesigner\\ProgramDesigner.Infrastructure\\Migrations\\20260720181526_First Mig.cs",
+              "RelativeToolTip": "ProgramDesigner.Infrastructure\\Migrations\\20260720181526_First Mig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T18:15:26.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProgramNodeDto.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ProgramDesigner\\ProgramDesigner.Application\\DTOs\\ProgramNodeDto.cs",
+              "RelativeDocumentMoniker": "ProgramDesigner.Application\\DTOs\\ProgramNodeDto.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\ProgramDesigner\\ProgramDesigner.Application\\DTOs\\ProgramNodeDto.cs",
+              "RelativeToolTip": "ProgramDesigner.Application\\DTOs\\ProgramNodeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T13:14:12.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProgramsController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ProgramDesigner\\ProgramDesigner.API\\Controllers\\ProgramsController.cs",
+              "RelativeDocumentMoniker": "ProgramDesigner.API\\Controllers\\ProgramsController.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\ProgramDesigner\\ProgramDesigner.API\\Controllers\\ProgramsController.cs",
+              "RelativeToolTip": "ProgramDesigner.API\\Controllers\\ProgramsController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T13:09:23.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProgramService.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ProgramDesigner\\ProgramDesigner.Application\\Services\\ProgramService.cs",
+              "RelativeDocumentMoniker": "ProgramDesigner.Application\\Services\\ProgramService.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\ProgramDesigner\\ProgramDesigner.Application\\Services\\ProgramService.cs",
+              "RelativeToolTip": "ProgramDesigner.Application\\Services\\ProgramService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwBQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T13:09:18.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ProgramDesigner\\ProgramDesigner.API\\Program.cs",
+              "RelativeDocumentMoniker": "ProgramDesigner.API\\Program.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\ProgramDesigner\\ProgramDesigner.API\\Program.cs",
+              "RelativeToolTip": "ProgramDesigner.API\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBwAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T13:03:24.176Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

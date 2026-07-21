@@ -1,0 +1,15 @@
+C:\Users\ahmed\source\repos\ProgramDesigner\ProgramDesigner.Application\obj\Debug\net8.0\ProgramDesigner.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\source\repos\ProgramDesigner\ProgramDesigner.Application\obj\Debug\net8.0\ProgramDesigner.Application.AssemblyInfoInputs.cache
+C:\Users\ahmed\source\repos\ProgramDesigner\ProgramDesigner.Application\obj\Debug\net8.0\ProgramDesigner.Application.AssemblyInfo.cs
+C:\Users\ahmed\source\repos\ProgramDesigner\ProgramDesigner.Application\obj\Debug\net8.0\ProgramDesigner.Application.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\ProgramDesigner\ProgramDesigner.Application\obj\Debug\net8.0\ProgramDesigner.Application.csproj.AssemblyReference.cache
+C:\Users\ahmed\source\repos\ProgramDesigner\ProgramDesigner.Application\bin\Debug\net8.0\ProgramDesigner.Application.deps.json
+C:\Users\ahmed\source\repos\ProgramDesigner\ProgramDesigner.Application\bin\Debug\net8.0\ProgramDesigner.Application.dll
+C:\Users\ahmed\source\repos\ProgramDesigner\ProgramDesigner.Application\bin\Debug\net8.0\ProgramDesigner.Application.pdb
+C:\Users\ahmed\source\repos\ProgramDesigner\ProgramDesigner.Application\bin\Debug\net8.0\ProgramDesigner.Domain.dll
+C:\Users\ahmed\source\repos\ProgramDesigner\ProgramDesigner.Application\bin\Debug\net8.0\ProgramDesigner.Domain.pdb
+C:\Users\ahmed\source\repos\ProgramDesigner\ProgramDesigner.Application\obj\Debug\net8.0\ProgramD.EB55F82B.Up2Date
+C:\Users\ahmed\source\repos\ProgramDesigner\ProgramDesigner.Application\obj\Debug\net8.0\ProgramDesigner.Application.dll
+C:\Users\ahmed\source\repos\ProgramDesigner\ProgramDesigner.Application\obj\Debug\net8.0\refint\ProgramDesigner.Application.dll
+C:\Users\ahmed\source\repos\ProgramDesigner\ProgramDesigner.Application\obj\Debug\net8.0\ProgramDesigner.Application.pdb
+C:\Users\ahmed\source\repos\ProgramDesigner\ProgramDesigner.Application\obj\Debug\net8.0\ref\ProgramDesigner.Application.dll
