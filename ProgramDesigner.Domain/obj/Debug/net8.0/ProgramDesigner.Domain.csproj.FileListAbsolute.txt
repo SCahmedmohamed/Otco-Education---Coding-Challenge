@@ -9,3 +9,4 @@ C:\Users\ahmed\source\repos\ProgramDesigner\ProgramDesigner.Domain\obj\Debug\net
 C:\Users\ahmed\source\repos\ProgramDesigner\ProgramDesigner.Domain\obj\Debug\net8.0\refint\ProgramDesigner.Domain.dll
 C:\Users\ahmed\source\repos\ProgramDesigner\ProgramDesigner.Domain\obj\Debug\net8.0\ProgramDesigner.Domain.pdb
 C:\Users\ahmed\source\repos\ProgramDesigner\ProgramDesigner.Domain\obj\Debug\net8.0\ref\ProgramDesigner.Domain.dll
+C:\Users\ahmed\source\repos\ProgramDesigner\ProgramDesigner.Domain\obj\Debug\net8.0\ProgramDesigner.Domain.sourcelink.json

@@ -13,3 +13,4 @@ C:\Users\ahmed\source\repos\ProgramDesigner\ProgramDesigner.Application\obj\Debu
 C:\Users\ahmed\source\repos\ProgramDesigner\ProgramDesigner.Application\obj\Debug\net8.0\refint\ProgramDesigner.Application.dll
 C:\Users\ahmed\source\repos\ProgramDesigner\ProgramDesigner.Application\obj\Debug\net8.0\ProgramDesigner.Application.pdb
 C:\Users\ahmed\source\repos\ProgramDesigner\ProgramDesigner.Application\obj\Debug\net8.0\ref\ProgramDesigner.Application.dll
+C:\Users\ahmed\source\repos\ProgramDesigner\ProgramDesigner.Application\obj\Debug\net8.0\ProgramDesigner.Application.sourcelink.json
