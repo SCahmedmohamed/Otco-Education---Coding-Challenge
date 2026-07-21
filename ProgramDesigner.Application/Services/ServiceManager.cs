@@ -1,4 +1,4 @@
-﻿using AutoMapper;
+using AutoMapper;
 using ProgramDesigner.Application.Serices.Abstractions;
 using ProgramDesigner.Domain.Contracts;
 using System;
@@ -16,6 +16,7 @@ namespace ProgramDesigner.Application.Services
     {
         public IProgramService ProgramService { get;  } = new ProgramService(_unitOfWork,_mapper);
         public IValidationSerivce ValdationService { get; } = new ValidationService(_unitOfWork);
+        public ISimulationService SimulationService { get; } = new SimulationService(_unitOfWork);
 
     }
 }

@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\ahmed\\source\\repos\\ProgramDesigner\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{701DA01A-4C2B-4579-B7AA-3DCE75EF6074}|ProgramDesigner.Application\\ProgramDesigner.Application.csproj|c:\\users\\ahmed\\source\\repos\\programdesigner\\programdesigner.application\\services\\simulationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701DA01A-4C2B-4579-B7AA-3DCE75EF6074}|ProgramDesigner.Application\\ProgramDesigner.Application.csproj|solutionrelative:programdesigner.application\\services\\simulationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701DA01A-4C2B-4579-B7AA-3DCE75EF6074}|ProgramDesigner.Application\\ProgramDesigner.Application.csproj|c:\\users\\ahmed\\source\\repos\\programdesigner\\programdesigner.application\\dtos\\simulationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701DA01A-4C2B-4579-B7AA-3DCE75EF6074}|ProgramDesigner.Application\\ProgramDesigner.Application.csproj|solutionrelative:programdesigner.application\\dtos\\simulationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C4CB1F-326C-46A2-829F-B230B81E4A77}|ProgramDesigner.API\\ProgramDesigner.API.csproj|c:\\users\\ahmed\\source\\repos\\programdesigner\\programdesigner.api\\controllers\\programscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C4CB1F-326C-46A2-829F-B230B81E4A77}|ProgramDesigner.API\\ProgramDesigner.API.csproj|solutionrelative:programdesigner.api\\controllers\\programscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +22,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SimulationService.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ProgramDesigner\\ProgramDesigner.Application\\Services\\SimulationService.cs",
+              "RelativeDocumentMoniker": "ProgramDesigner.Application\\Services\\SimulationService.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\ProgramDesigner\\ProgramDesigner.Application\\Services\\SimulationService.cs",
+              "RelativeToolTip": "ProgramDesigner.Application\\Services\\SimulationService.cs",
+              "ViewState": "AgIAAMAAAAAAAAAAAAAiwMsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T13:20:56.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SimulationRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ProgramDesigner\\ProgramDesigner.Application\\DTOs\\SimulationRequestDto.cs",
+              "RelativeDocumentMoniker": "ProgramDesigner.Application\\DTOs\\SimulationRequestDto.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\ProgramDesigner\\ProgramDesigner.Application\\DTOs\\SimulationRequestDto.cs",
+              "RelativeToolTip": "ProgramDesigner.Application\\DTOs\\SimulationRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T13:17:24.397Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProgramsController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ProgramDesigner\\ProgramDesigner.API\\Controllers\\ProgramsController.cs",
+              "RelativeDocumentMoniker": "ProgramDesigner.API\\Controllers\\ProgramsController.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\ProgramDesigner\\ProgramDesigner.API\\Controllers\\ProgramsController.cs",
+              "RelativeToolTip": "ProgramDesigner.API\\Controllers\\ProgramsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T13:04:54.958Z",
+              "EditorCaption": ""
             }
           ]
         }
